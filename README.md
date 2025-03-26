@@ -40,6 +40,7 @@ UAARG's Very Own NVIM Config??
 ## Installation Instructions
 <ins>Requrements:</ins>
   - [ripgrep](https://github.com/BurntSushi/ripgrep) (for telescope live-grep functionality)
+  - [lazygit](https://github.com/jesseduffield/lazygit)
   - Any terminal emulator that has full color support (for colorscheme)
     
 <ins>Steps:</ins>
